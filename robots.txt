@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atinolar.github.io/a/sitemap.html
+Sitemap: https://atinolar.github.io/b/sitemap.html
+Sitemap: https://atinolar.github.io/c/sitemap.html
+Sitemap: https://atinolar.github.io/d/sitemap.html
